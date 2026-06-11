@@ -14,4 +14,8 @@
 
 ## Features
 
+- **KDE Plasma Desktop**: We provide a refined and user-friendly desktop environment.
+- **Minimal Installation**: This installation includes only the bare essentials, with no unnecessary apps, so you can customize it to suit your needs.
+- **A Beautiful Theme**: It offers a sophisticated, cohesive desktop with beautiful themes.
+
 ## Licence
