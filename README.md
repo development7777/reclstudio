@@ -10,6 +10,8 @@
 
 ## About
 
+`RECL Studio` is a refined, user-friendly, and creative Ubuntu fork. Designed for creators, it is optimized for music production, image editing, development, and more.
+
 ## Features
 
 ## Licence
